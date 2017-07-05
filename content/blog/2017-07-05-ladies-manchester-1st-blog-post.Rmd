@@ -1,0 +1,13 @@
+---
+title: Ladies_Manchester 1st blog-post
+author: RLadies Manchester
+date: '2017-07-05'
+slug: ladies-manchester-1st-blog-post
+categories:
+  - R
+tags:
+  - '#RLadies'
+  - '#rstats'
+---
+
+Our 1st blog post
